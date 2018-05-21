@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Heroku link: https://twitter-sample-app2.herokuapp.com/
